@@ -1,65 +1,62 @@
-# 📊 Daily Expense Tracker
+# Daily Expense Tracker — Python Analytics Project
 
-A **Python-based console application** that helps users track daily expenses, analyze spending behavior, identify unnecessary spending, and get insight-driven budget recommendations — just like a real financial analyst tool.
-
----
-
-## 🧠 Overview
-
-This project is designed to simulate real-world personal spending analysis using basic Python programming constructs like variables, loops, user input, lists, and dictionaries — no external libraries required.
-
-💡 The application:
-
-✔ Takes expense input by the user  
-✔ Tracks total spending and remaining budget  
-✔ Identifies top spending categories  
-✔ Classifies expenses into necessary vs unnecessary  
-✔ Calculates waste percentages  
-✔ Provides meaningful budgeting suggestions  
+## Overview
+Python-based daily expense tracking and analytics system focused on personal finance and budgeting insights.
 
 ---
 
-## 📌 Features
-
-### 📉 Expense Tracking
-- Add multiple expense entries with category and necessity type
-- Track total expenses for the day
-- Remaining money based on a daily budget
-
-### 📊 Spending Analysis
-- Most spent category
-- Percentage of waste (unnecessary expenses)
-- Personalized recommendations on spending behavior
-
-### 🧾 Professional Report Summary
-At the end, the script generates a clean, readable summary report.
+## Business Context
+- Identification of major spending categories  
+- Separation of essential and discretionary expenses  
+- Evaluation of spending behavior against budget limits  
 
 ---
 
-## 🧪 How It Works
-
-Once launched, the program:
-
-1. Asks for your daily budget
-2. Requests expense entries (amount, category, necessity)
-3. Uses loops and conditionals to keep data organized
-4. Calculates totals, percentages, and patterns
-5. Outputs an analytical report
+## Analytical Objectives
+- Track daily expenses against a fixed budget  
+- Aggregate spending by category and payment mode  
+- Classify expenses as Necessary or Unnecessary  
+- Calculate waste percentage using KPI logic  
+- Detect spending risks and control areas  
+- Generate data-driven recommendations  
 
 ---
 
-## 🚀 Sample Output
-
-Check out `sample_output.txt` in this repo to see how a run looks — includes:
-✔ Expense Summary  
-✔ Category Breakdown  
-✔ Waste Insights  
-✔ Spending Suggestions  
+## Analytical Workflow
+Data Input → Aggregation → KPI Calculation → Insight Generation → Recommendation
 
 ---
 
-## 🛠️ Usage
+## Key Metrics
+- Total Daily Spend  
+- Remaining Balance  
+- Category-wise Spending  
+- Necessary vs Unnecessary Spend Ratio  
+- Waste Percentage  
+- Highest Spending Category  
+- Transaction Count  
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/SunnyMohite445/daily-expense-tracker.git
+---
+
+## Features
+- Multi-entry expense capture  
+- Category-wise aggregation  
+- Payment mode analysis  
+- Waste identification logic  
+- Analytical summary report  
+- Rule-based recommendations  
+
+---
+
+## Technologies & Concepts
+- Python  
+- Variables, loops, conditionals  
+- Lists and dictionaries  
+- Aggregation and comparison logic  
+- Percentage-based KPI calculations  
+
+---
+
+## Execution
+```bash
+python expense_tracker.py
