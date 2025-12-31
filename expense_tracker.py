@@ -1,6 +1,5 @@
 """
 DAILY EXPENSE TRACKER & ANALYTICS SYSTEM
-Author: Analyst Prototype
 Purpose:
 - Track daily spending
 - Analyze spending behavior
@@ -197,3 +196,4 @@ print("\nFinancial Discipline grows from awareness + control.")
 print("\n" + "=" * 70)
 print("                 END OF ANALYST REPORT")
 print("=" * 70)
+
