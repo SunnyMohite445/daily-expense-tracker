@@ -1,0 +1,77 @@
+======================================================================
+        DAILY EXPENSE TRACKER – ANALYST SUMMARY REPORT
+======================================================================
+
+Enter today's total budget: 1500
+
+--- New Expense Entry ---
+Expense amount: 200
+Category (food, travel, shopping, rent, etc.): food
+Type (necessary / unnecessary): necessary
+Payment mode (cash / upi / card): upi
+Add another expense? (yes/no): yes
+
+--- New Expense Entry ---
+Expense amount: 350
+Category (food, travel, shopping, rent, etc.): shopping
+Type (necessary / unnecessary): unnecessary
+Payment mode (cash / upi / card): card
+Add another expense? (yes/no): yes
+
+--- New Expense Entry ---
+Expense amount: 150
+Category (food, travel, shopping, rent, etc.): travel
+Type (necessary / unnecessary): necessary
+Payment mode (cash / upi / card): upi
+Add another expense? (yes/no): yes
+
+--- New Expense Entry ---
+Expense amount: 250
+Category (food, travel, shopping, rent, etc.): junk
+Type (necessary / unnecessary): unnecessary
+Payment mode (cash / upi / card): cash
+Add another expense? (yes/no): no
+
+======================================================================
+                    DAILY FINANCIAL SUMMARY
+======================================================================
+Daily Budget           : 1500.0
+Total Spent Today      : 950.0
+Remaining Balance      : 550.0
+Total Transactions     : 4
+
+--- Category-wise Spending ---
+Food            : 200.0
+Shopping        : 350.0
+Travel          : 150.0
+Junk            : 250.0
+
+--- Payment Mode Usage ---
+Upi             : 350.0
+Card            : 350.0
+Cash            : 250.0
+
+======================================================================
+                    ANALYTICAL INSIGHTS
+======================================================================
+Highest Spending Category : Shopping
+Amount Spent There        : 350.0
+
+Necessary Spending        : 350.0
+Unnecessary Spending     : 600.0
+
+Necessary % of Spend     : 36.84%
+Waste % of Spend         : 63.16%
+
+======================================================================
+            ACTIONABLE RECOMMENDATIONS
+======================================================================
+High Risk: Excessive unnecessary spending.
+Action: Reduce discretionary expenses immediately.
+- Control spending in 'shopping' category.
+- Budget managed successfully.
+
+Track daily. Review weekly. Improve continuously.
+======================================================================
+                 END OF REPORT
+======================================================================
