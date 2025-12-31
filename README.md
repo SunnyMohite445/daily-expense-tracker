@@ -1,4 +1,5 @@
-# Daily Expense Tracker
+# Daily Expense Tracker – Python Data Analytics Project
+
 
 ## 📌 Project Overview
 This project is a **Python-based Daily Expense Tracker** designed from a 
@@ -42,3 +43,4 @@ actionable recommendations for better financial control.
 ## ▶ How to Run
 ```bash
 python expense_tracker.py
+
